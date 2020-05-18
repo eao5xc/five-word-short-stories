@@ -1,3 +1,3 @@
 Hello, 
 
-Once upon a time, there was a Zoom call with two kids named Emmanuel and Alex. It was a work project assigned to them by the illustrious Chris Santamaria, wondrous and great Instructor for the reknown Launch program. Suddenly, he gave them a strange piece of code, cryptically written
+Once upon a time, there was a Zoom call with two kids named Emmanuel and Alex. It was a work project assigned to them by the illustrious Chris Santamaria, wondrous and great Instructor for the reknown Launch program. Suddenly, he gave them a strange piece of code, cryptically written in a language called Javascript.
